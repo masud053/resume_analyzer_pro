@@ -1,0 +1,4 @@
+Senior Data Scientist - Job Description
+
+We are looking for an experienced Data Scientist with strong Python, Machine Learning, NLP experience.
+Requirements: Python, SQL, AWS, Docker, PyTorch or TensorFlow, model deployment experience.

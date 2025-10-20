@@ -1,0 +1,7 @@
+scoring:
+  weights:
+    skills: 0.4
+    experience: 0.3
+    education: 0.2
+    keywords: 0.1
+embedding_model: "all-MiniLM-L6-v2"
